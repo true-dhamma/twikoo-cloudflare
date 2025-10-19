@@ -11,7 +11,7 @@ database_id = "0e993248-6eb9-4a62-9bea-685b751c0a67"
 
 [[r2_buckets]]
 binding = "R2"
-bucket_name = "twikoo"
+bucket_name = "twikoo-bucket"
 
 [vars]
 R2_PUBLIC_URL = "https://pub-c0d06cbbf3584abe881bcc0ab05254ba.r2.dev"
